@@ -1,4 +1,4 @@
-### Hi/ Hei/ Hajdå/ Xin chào 👋
+### Hi/ Hei/ 你好/ Xin chào 👋
 
 <!--
 **joycenhunguyen/joycenhunguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
